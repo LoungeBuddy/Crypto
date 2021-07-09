@@ -1,6 +1,7 @@
 #
 #  Be sure to run `pod spec lint Crypto.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
+# Use `pod spec lint Crypto.podspec --allow-warnings` to ignore warnings
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
 #  To see working Podspecs in the CocoaPods repo see https://github.com/CocoaPods/Specs/
