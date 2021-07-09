@@ -19,7 +19,7 @@ s.homepage         = 'http://LoungeBuddy.com'
 s.license          = { :type => "MIT", :file => "LICENSE" }
 s.author           = { "vidyaranigrao" => "vidyarani.balakrishna@aexp.com" }
 s.source           = { :git => "https://github.com/LoungeBuddy/Crypto.git", :tag => "0.5.5" } 
-s.ios.deployment_target = "13.0"
+s.ios.deployment_target = "12.0"
 s.swift_version = '5.0'
 s.public_header_files = 'Crypto/*.h'
 s.source_files = "Crypto/*.{h,swift}"
